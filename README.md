@@ -2,7 +2,7 @@
 
 <p align='center'> ### I'm a quick learning junior full-stack developer located in Windsor, ON </p>
 
-[![Maggie's GitHub stats](https://github-readme-stats.vercel.app/api?username=maggiejoe)](https://github.com/maggiejoe/github-readme-stats&show_icons=true&theme=radical) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maggiejoe)](https://github.com/maggiejoe/github-readme-stats&theme=radical)
+<p align='center'> [![Maggie's GitHub stats](https://github-readme-stats.vercel.app/api?username=maggiejoe)](https://github.com/maggiejoe/github-readme-stats&show_icons=true&theme=radical) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maggiejoe)](https://github.com/maggiejoe/github-readme-stats&theme=radical) </p>
 
 
 - 🌱 I’m currently learning **Python**
