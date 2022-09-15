@@ -3,8 +3,8 @@
 <p align='center'> ### I'm a quick learning junior full-stack developer located in Windsor, ON </p>
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=maggiejoe)](https://github.com/maggiejoe/github-readme-stats&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggiejoe)](https://github.com/maggiejoe/github-readme-stats&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=maggiejoe&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggiejoe&theme=radical" />
 </div>
 
 
