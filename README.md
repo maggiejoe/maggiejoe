@@ -2,12 +2,6 @@
 
 <p align='center'>I'm a quick learning junior full-stack developer located in Windsor, ON</p>
 
-### :fire: My Stats : 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=maggiejoe&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maggiejoe&theme=radical" />
-</div>
-
 ![](https://komarev.com/ghpvc/?username=maggiejoe&style=flat-square&color=brightgreen)
 
 ### :woman_technologist: About Me :                                                                                                            
