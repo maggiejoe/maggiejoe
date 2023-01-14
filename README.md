@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=maggiejoe&style=flat-square&color=brightgreen)
 
 ### :woman_technologist: About Me :                                                                                                            
-- 🌱 I’m currently learning **PHP & WordPress**
+- 🌱 I’m currently learning **UX Design with Google and React**
 - 👯 I’m looking to collaborate on **enhancing one of my projects, The Lazy Plant Caretaker, to turn it into a mobile app**
 - 💬 Ask me about my **house plants**
 - 📫 How to reach me: maggiejoseph94@gmail.com
